@@ -6,6 +6,7 @@ Welcome to the Electronics Store e-Commerce project! This ASP.NET Core applicati
 
 - [Introduction](#introduction)
 - [Video](#video)
+- [Login](#login)
 - [Features](#features)
   - [Customer Panel](#customer-panel)
   - [Admin Panel](#admin-panel)
@@ -21,6 +22,12 @@ This project is an ASP.NET Core application designed to serve as an electronics 
 ## video
 [![eCommerce Store Demo](	https://i.ytimg.com/vi/1P--kkhuGn4/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLBGWHW98xu1w9NyUNQZSJcRAyYutQ)](https://www.youtube.com/watch?v=1P--kkhuGn4)
 
+## Login
+Admin
+Email :- Admin@gmail.com
+Password :- Admin@7797
+User
+Can be created by own
 
 ## Features
 
