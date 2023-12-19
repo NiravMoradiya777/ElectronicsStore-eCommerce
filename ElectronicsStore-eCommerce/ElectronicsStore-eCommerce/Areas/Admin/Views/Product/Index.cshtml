@@ -1,0 +1,115 @@
+﻿@model List<ElectronicsStore_eCommerce.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2>Products</h2>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    <div class="col-md-12">
+        <div class="container-fluid">
+            <div class="d-flex justify-content-between">
+                <div class="row">
+                    <div class="col-md-12">
+                        <form method="get" class="form-inline mb-3">
+                            <div class="input-group">
+                                <div class="form-outline" data-mdb-input-init>
+                                    <input type="search" name="searchString" placeholder="Search" class="form-control mr-sm-2" value="@ViewBag.CurrentFilter" />
+                                    <label class="form-label" for="form1">Search</label>
+                                </div>
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="fas fa-search"></i>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <a asp-action="Create" asp-controller="Product" class="btn btn-primary"><i class="fas fa-add"></i>  Create Product</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <table id="productsTable" class="table">
+        <thead>
+            <tr>
+                <th>
+                    <a asp-action="Index" asp-route-sortOrder="id" asp-route-page="@(ViewBag.Page)" asp-route-searchString="@(ViewBag.CurrentFilter)">
+                        ID
+                    </a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-sortOrder="name" asp-route-page="@(ViewBag.Page)" asp-route-searchString="@(ViewBag.CurrentFilter)">
+                        Name
+                    </a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-sortOrder="description" asp-route-page="@(ViewBag.Page)" asp-route-searchString="@(ViewBag.CurrentFilter)">
+                        Description
+                    </a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-sortOrder="price" asp-route-page="@(ViewBag.Page)" asp-route-searchString="@(ViewBag.CurrentFilter)">
+                        Price
+                    </a>
+                </th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Any())
+            {
+                @foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@product.ProductId</td>
+                        <td>@product.Name</td>
+                        <td class="collapse">@product.Description</td>
+                        <td>@product.Price</td>
+
+                        <td style="white-space: nowrap;">
+                            <a asp-action="Edit" asp-area="Admin" asp-controller="Product" asp-route-id="@product.ProductId" class="btn btn-link"><i class="fas fa-edit"></i></a>
+                            <form asp-action="Delete" asp-area="Admin" asp-controller="Product" method="post" onsubmit="return confirm('Are you sure you want to delete this product?')" style="display: inline;">
+                                <input type="hidden" name="id" value="@product.ProductId" />
+                                <button type="submit" class="btn btn-link"><i class="fas fa-trash"></i></button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5">No products found.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#productsTable').DataTable();
+        });
+    </script>
+}

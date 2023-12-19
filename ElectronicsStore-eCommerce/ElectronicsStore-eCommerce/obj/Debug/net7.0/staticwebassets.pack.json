@@ -1,0 +1,2837 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ElectronicsStore-eCommerce.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ElectronicsStore-eCommerce.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\068145e7-ac1a-48d2-b168-1f7710645d4d_711HaUQRDsL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\068145e7-ac1a-48d2-b168-1f7710645d4d_711HaUQRDsL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\08ef723e-1909-4c1a-9813-4061c35a6ddc_61NVPmS83zL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\08ef723e-1909-4c1a-9813-4061c35a6ddc_61NVPmS83zL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\0c1b5487-1ce6-4ffd-a505-b48f7d411e37_laptop.png",
+      "PackagePath": "staticwebassets\\Images\\0c1b5487-1ce6-4ffd-a505-b48f7d411e37_laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\10d870d9-3b58-453c-83b4-4294c65914a7_51NeDTjCfOL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\10d870d9-3b58-453c-83b4-4294c65914a7_51NeDTjCfOL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\2053c292-f0c9-4144-ac9c-f9c4e9ef15a1_71OoFTrVZxL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\2053c292-f0c9-4144-ac9c-f9c4e9ef15a1_71OoFTrVZxL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\20a1ac82-09ed-400d-9677-dcc2b8d22e57_tv.png",
+      "PackagePath": "staticwebassets\\Images\\20a1ac82-09ed-400d-9677-dcc2b8d22e57_tv.png"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\20e9a0e9-b3e6-4589-8651-78f7a3f41103_71llFH5UTrL._AC_SY879_.jpg",
+      "PackagePath": "staticwebassets\\Images\\20e9a0e9-b3e6-4589-8651-78f7a3f41103_71llFH5UTrL._AC_SY879_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\23f04a65-0f33-45c4-8faa-05b5039a6817_camera.png",
+      "PackagePath": "staticwebassets\\Images\\23f04a65-0f33-45c4-8faa-05b5039a6817_camera.png"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\2467396a-959f-448a-9b7c-0e8aed0080af_71vzgt86myL._AC_SY450_.jpg",
+      "PackagePath": "staticwebassets\\Images\\2467396a-959f-448a-9b7c-0e8aed0080af_71vzgt86myL._AC_SY450_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\2a012251-5ee7-447f-98f8-6ca6933aede8_51FWvhDbQYL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\2a012251-5ee7-447f-98f8-6ca6933aede8_51FWvhDbQYL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\36e22306-0a39-45e6-9e7f-9e432879aa5c_51OxiolX6RL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\36e22306-0a39-45e6-9e7f-9e432879aa5c_51OxiolX6RL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\371bb2bd-5a07-45e8-b335-e92426238e35_31fWmQEbkYL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\371bb2bd-5a07-45e8-b335-e92426238e35_31fWmQEbkYL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\39f1e754-22d6-44fe-b2ba-84f496ab60ea_61aELk1xiLL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\39f1e754-22d6-44fe-b2ba-84f496ab60ea_61aELk1xiLL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\3d9e979f-c045-4fe0-b407-f7313d7c9fa4_81T4wnxQOiL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\3d9e979f-c045-4fe0-b407-f7313d7c9fa4_81T4wnxQOiL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\46a7c447-94ed-4908-88f3-fdb495503d08_51X3hXAiCnL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\46a7c447-94ed-4908-88f3-fdb495503d08_51X3hXAiCnL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\57c8d747-c67a-4f2b-83f5-ebcaa1088869_61vJtKbAssL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\57c8d747-c67a-4f2b-83f5-ebcaa1088869_61vJtKbAssL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\5882634d-562e-48ed-845c-8d302ca16f73_61QsQblNoXL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\5882634d-562e-48ed-845c-8d302ca16f73_61QsQblNoXL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\595ec746-5399-4951-b0bd-caac48ac094f_81k-JFCjJdL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\595ec746-5399-4951-b0bd-caac48ac094f_81k-JFCjJdL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\5a6466f5-8a8c-49a2-848f-35ded0ad09a7_81cnEBur7FL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\5a6466f5-8a8c-49a2-848f-35ded0ad09a7_81cnEBur7FL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\62232929-5788-4f8b-82d8-2e5e2bc71819_71sQ1on0fuL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\62232929-5788-4f8b-82d8-2e5e2bc71819_71sQ1on0fuL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\658e2256-2c49-48d3-b475-8bad75fad87f_71k21zXhQIL._AC_SY879_.jpg",
+      "PackagePath": "staticwebassets\\Images\\658e2256-2c49-48d3-b475-8bad75fad87f_71k21zXhQIL._AC_SY879_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\67cb58c9-d2bc-4378-be78-d683c6f99c05_71EWRyqzw0L._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\67cb58c9-d2bc-4378-be78-d683c6f99c05_71EWRyqzw0L._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\6ea0cd7f-3f43-45e6-9c66-067bc5976343_81fTL56Fa1L._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\6ea0cd7f-3f43-45e6-9c66-067bc5976343_81fTL56Fa1L._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\7106d816-bd17-48c3-a874-10fcf1df7cf3_714JEdlaUDL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\7106d816-bd17-48c3-a874-10fcf1df7cf3_714JEdlaUDL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\7572fb64-bad8-4a49-943d-2ef6cbcbb116_71S5Pv16B1L._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\7572fb64-bad8-4a49-943d-2ef6cbcbb116_71S5Pv16B1L._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\7dd1f4fc-0c5f-4045-9199-d39e9ecce406_41SLL9Zws6L._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\7dd1f4fc-0c5f-4045-9199-d39e9ecce406_41SLL9Zws6L._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\8459b2f2-8cac-4720-9e73-f9f357628b38_61vtqZFlStL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\8459b2f2-8cac-4720-9e73-f9f357628b38_61vtqZFlStL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\9d2589e2-e805-48fd-a905-adc8d991f5ae_81Fm0tRFdHL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\9d2589e2-e805-48fd-a905-adc8d991f5ae_81Fm0tRFdHL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\9dbf107e-0003-42cd-846b-0ac57fba2f50_71SfoZu9a3L._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\9dbf107e-0003-42cd-846b-0ac57fba2f50_71SfoZu9a3L._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\Logo.png",
+      "PackagePath": "staticwebassets\\Images\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\a044a59b-9adf-4f08-abad-9f5fff5fcd14_81S7jLx6dEL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\a044a59b-9adf-4f08-abad-9f5fff5fcd14_81S7jLx6dEL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\a2729386-62c9-4558-9463-30f4f9348177_81kir2fBpJL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\a2729386-62c9-4558-9463-30f4f9348177_81kir2fBpJL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\a2c9bee0-76e5-46e2-b7e2-0c0a8c238cb0_717xSjyDRzL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\a2c9bee0-76e5-46e2-b7e2-0c0a8c238cb0_717xSjyDRzL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\a5904e5c-a149-49a1-a0ab-edc75cd285d5_5160oIUsG8L._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\a5904e5c-a149-49a1-a0ab-edc75cd285d5_5160oIUsG8L._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\a5a23433-052e-48e0-afd8-06797801c2c4_81V1VCLb4oL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\a5a23433-052e-48e0-afd8-06797801c2c4_81V1VCLb4oL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\ac69ca82-3fdd-4381-ba41-3d0536407d61_71UmshIIGhL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\ac69ca82-3fdd-4381-ba41-3d0536407d61_71UmshIIGhL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\b69057a2-e447-4590-bf81-7abe6abd2c14_71K1MisdLVL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\b69057a2-e447-4590-bf81-7abe6abd2c14_71K1MisdLVL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\b8a53214-810a-4a8f-a40e-483de6dd5dbe_headphone.png",
+      "PackagePath": "staticwebassets\\Images\\b8a53214-810a-4a8f-a40e-483de6dd5dbe_headphone.png"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\banner.jpg",
+      "PackagePath": "staticwebassets\\Images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\c0128685-616d-412b-b016-99303da4728d_51B0KZh+kvL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\c0128685-616d-412b-b016-99303da4728d_51B0KZh+kvL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\c2f88a92-cceb-49de-accc-48c624dc2174_81mC0tulkDL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\c2f88a92-cceb-49de-accc-48c624dc2174_81mC0tulkDL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\c7532dfb-9b55-4575-8151-d2aa2f6a40a9_717daUoNNSL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\c7532dfb-9b55-4575-8151-d2aa2f6a40a9_717daUoNNSL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\c7b146df-f913-4419-8c52-648e42cd0867_71w71SQNvmL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\c7b146df-f913-4419-8c52-648e42cd0867_71w71SQNvmL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\cadf6a4c-f13d-400d-bbe8-626365ad0fec_716VIx4HEQL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\cadf6a4c-f13d-400d-bbe8-626365ad0fec_716VIx4HEQL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\cb476051-7601-4e76-aff0-398dcc795e68_717ZIS8mX9L._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\cb476051-7601-4e76-aff0-398dcc795e68_717ZIS8mX9L._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\cd0391a8-251d-4cdd-b842-41663873566f_61meZRVKpFL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\cd0391a8-251d-4cdd-b842-41663873566f_61meZRVKpFL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\cde02467-e3bd-4300-863a-32de074d1f4f_mobile-phone.png",
+      "PackagePath": "staticwebassets\\Images\\cde02467-e3bd-4300-863a-32de074d1f4f_mobile-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\cf43e49a-e9a4-4d90-97fa-eb276b5e0252_61m9N4wvqrL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\cf43e49a-e9a4-4d90-97fa-eb276b5e0252_61m9N4wvqrL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\cf8b8d79-1fb6-4396-88a3-5c5bab853171_81gW2Vb93RL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\cf8b8d79-1fb6-4396-88a3-5c5bab853171_81gW2Vb93RL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\d0f57289-222d-41a3-83d7-400c44f7d88f_71I7sZRQ5ZL._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\d0f57289-222d-41a3-83d7-400c44f7d88f_71I7sZRQ5ZL._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\d477ab7e-fbfe-4fca-b2e2-bee618e82782_91gQlahUrIL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\d477ab7e-fbfe-4fca-b2e2-bee618e82782_91gQlahUrIL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\d8224b9b-8b2e-4c6c-b684-86805e4121f1_61pqU3yNTBL._AC_SY450_.jpg",
+      "PackagePath": "staticwebassets\\Images\\d8224b9b-8b2e-4c6c-b684-86805e4121f1_61pqU3yNTBL._AC_SY450_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\f034dad8-da63-42b2-8c19-e455d7e533eb_71JfygBoSnL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\f034dad8-da63-42b2-8c19-e455d7e533eb_71JfygBoSnL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\f5361a33-4c75-4851-8b8e-138f4c5ee97c_61Pnlw5FrrL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\f5361a33-4c75-4851-8b8e-138f4c5ee97c_61Pnlw5FrrL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\f896f730-b91d-4e1c-9f41-0ef40893a98f_51v-Fa-yDOL._AC_SY450_.jpg",
+      "PackagePath": "staticwebassets\\Images\\f896f730-b91d-4e1c-9f41-0ef40893a98f_51v-Fa-yDOL._AC_SY450_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\f9179899-ef69-4d3c-8423-9c430919e68f_tablet.png",
+      "PackagePath": "staticwebassets\\Images\\f9179899-ef69-4d3c-8423-9c430919e68f_tablet.png"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\f91acc27-450f-435c-91ec-6c23fc2f1e30_61JWfh6ixZL._AC_SX425_.jpg",
+      "PackagePath": "staticwebassets\\Images\\f91acc27-450f-435c-91ec-6c23fc2f1e30_61JWfh6ixZL._AC_SX425_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\fc077d5d-5671-4c62-a6ba-57b16d99e565_7111h8M3J+L._AC_SX679_.jpg",
+      "PackagePath": "staticwebassets\\Images\\fc077d5d-5671-4c62-a6ba-57b16d99e565_7111h8M3J+L._AC_SX679_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\Images\\image-placeholder.png",
+      "PackagePath": "staticwebassets\\Images\\image-placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\License.pdf",
+      "PackagePath": "staticwebassets\\lib\\MDB\\License.pdf"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\README.txt",
+      "PackagePath": "staticwebassets\\lib\\MDB\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\css\\mdb.dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\MDB\\css\\mdb.dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\css\\mdb.dark.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\css\\mdb.dark.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\css\\mdb.dark.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\MDB\\css\\mdb.dark.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\css\\mdb.min.css",
+      "PackagePath": "staticwebassets\\lib\\MDB\\css\\mdb.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\css\\mdb.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\css\\mdb.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\css\\mdb.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\MDB\\css\\mdb.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\img\\mdb-favicon.ico",
+      "PackagePath": "staticwebassets\\lib\\MDB\\img\\mdb-favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\index.html",
+      "PackagePath": "staticwebassets\\lib\\MDB\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\js\\mdb.es.min.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\js\\mdb.es.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\js\\mdb.es.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\js\\mdb.es.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\js\\mdb.umd.min.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\js\\mdb.umd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\js\\mdb.umd.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\js\\mdb.umd.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\package.json",
+      "PackagePath": "staticwebassets\\lib\\MDB\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\autoinit\\callbacks\\charts.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\autoinit\\callbacks\\charts.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\autoinit\\callbacks\\free.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\autoinit\\callbacks\\free.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\autoinit\\callbacks\\pro.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\autoinit\\callbacks\\pro.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\autoinit\\index.free.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\autoinit\\index.free.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\autoinit\\index.pro.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\autoinit\\index.pro.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\autoinit\\init.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\autoinit\\init.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\autoinit\\initSelectors\\free.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\autoinit\\initSelectors\\free.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\autoinit\\initSelectors\\pro.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\autoinit\\initSelectors\\pro.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\alert.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\base-component.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\base-component.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\base-component.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\base-component.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\button.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\button.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\data.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\data.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\event-handler.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\event-handler.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\manipulator.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\manipulator.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\selector-engine.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\dom\\selector-engine.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\modal.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\offcanvas.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\offcanvas.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\offcanvas.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\popover.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\tab.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\toast.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\backdrop.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\backdrop.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\backdrop.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\component-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\component-functions.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\component-functions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\config.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\config.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\config.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\focustrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\focustrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\focustrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\index.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\sanitizer.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\sanitizer.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\scrollbar.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\scrollbar.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\swipe.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\swipe.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\swipe.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\template-factory.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\template-factory.js.map",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\dist\\util\\template-factory.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\base-component.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\base-component.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\button.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\offcanvas.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\backdrop.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\component-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\config.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\focustrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\index.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\swipe.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\mdb-prefix\\util\\template-factory.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\base-component.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\base-component.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\button.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\offcanvas.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\backdrop.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\component-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\config.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\focustrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\index.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\swipe.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\bootstrap\\src\\util\\template-factory.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\base-component.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\base-component.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\button.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\input.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\input.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\range.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\range.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\ripple.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\ripple.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\free\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\free\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb.free.es.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb.free.es.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb.free.umd.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb.free.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\handlers\\click-rail.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\handlers\\click-rail.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\handlers\\drag-thumb.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\handlers\\drag-thumb.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\handlers\\keyboard.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\handlers\\keyboard.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\handlers\\mouse-wheel.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\handlers\\mouse-wheel.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\handlers\\touch.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\handlers\\touch.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\index.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\lib\\class-names.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\lib\\class-names.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\lib\\css.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\lib\\css.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\lib\\dom.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\lib\\dom.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\lib\\event-manager.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\lib\\event-manager.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\lib\\util.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\lib\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\process-scroll-diff.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\process-scroll-diff.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\update-geometry.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\perfect-scrollbar\\update-geometry.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\util\\focusTrap.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\util\\focusTrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\util\\index.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\util\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\util\\keycodes.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\util\\keycodes.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\util\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\util\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\util\\stack.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\util\\stack.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\util\\touch\\index.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\util\\touch\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\util\\touch\\swipe.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\util\\touch\\swipe.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\js\\mdb\\util\\touch\\touchUtil.js",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\js\\mdb\\util\\touch\\touchUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_maps.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap-rtl-fix\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\custom\\_styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\custom\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_colors.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_deprecated.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_deprecated.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_flag.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_flag.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_range.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_range.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_ripple.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_ripple.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_scrollspy.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_scrollspy.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_shadows.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\forms\\_form-file.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\forms\\_form-file.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\mixins\\_ripple.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\mixins\\_ripple.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\free\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\free\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\MDB\\src\\scss\\mdb.free.scss",
+      "PackagePath": "staticwebassets\\lib\\MDB\\src\\scss\\mdb.free.scss"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\langs\\README.md",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\langs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\models\\dom\\model.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\models\\dom\\model.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\accordion\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\accordion\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\template\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\template\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "C:\\Users\\nirav\\source\\repos\\ElectronicsStore-eCommerce\\ElectronicsStore-eCommerce\\wwwroot\\lib\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ElectronicsStore-eCommerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ElectronicsStore-eCommerce.props",
+      "PackagePath": "build\\ElectronicsStore-eCommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ElectronicsStore-eCommerce.props",
+      "PackagePath": "buildMultiTargeting\\ElectronicsStore-eCommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ElectronicsStore-eCommerce.props",
+      "PackagePath": "buildTransitive\\ElectronicsStore-eCommerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

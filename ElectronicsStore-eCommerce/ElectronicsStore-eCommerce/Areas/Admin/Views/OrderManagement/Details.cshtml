@@ -1,0 +1,76 @@
+﻿@model ElectronicsStore_eCommerce.Models.Order
+
+@{
+    ViewData["Title"] = "Order Management";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Order Details</h2>
+
+    <div class="row">
+        <div class="col-md-6 offset-md-2">
+            <dl class="row">
+                <dt class="col-sm-4">Order ID</dt>
+                <dd class="col-sm-8">@Model.OrderId</dd>
+
+                <dt class="col-sm-4">Order Date</dt>
+                <dd class="col-sm-8">@Model.OrderDate</dd>
+
+                <dt class="col-sm-4">User ID</dt>
+                <dd class="col-sm-8">@Model.UserId</dd>
+
+                <dt class="col-sm-4">User Name</dt>
+                <dd class="col-sm-8">@($"{Model.User.FirstName} {Model.User.LastName}")</dd>
+
+                <dt class="col-sm-4">Shipping Info ID</dt>
+                <dd class="col-sm-8">@Model.ShippingInfoId</dd>
+
+                <dt class="col-sm-4">Shipping Address</dt>
+                <dd class="col-sm-8">@Model.ShippingInfo.ShippingAddress</dd>
+
+                <!-- Add more order details as needed -->
+
+                <dt class="col-sm-4">Total Items</dt>
+                <dd class="col-sm-8">@Model.OrderItems.Sum(oi => oi.Quantity)</dd>
+
+                <dt class="col-sm-4">Status</dt>
+                <dd class="col-sm-8">@Model.Status</dd>
+
+                <dt class="col-sm-4">Total Amount</dt>
+                <dd class="col-sm-8">@Model.TotalAmount</dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-8 offset-md-2">
+            <h4>Order Items</h4>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Product ID</th>
+                        <th>Product Name</th>
+                        <th>Quantity</th>
+                        <th>Subtotal</th>
+                        <th>Image</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var orderItem in Model.OrderItems)
+                    {
+                        <tr>
+                            <td>@orderItem.ProductId</td>
+                            <td>@orderItem.Product.Name</td>
+                            <td>@orderItem.Quantity</td>
+                            <td>@orderItem.Subtotal</td>
+                            <td>
+                                <img src="@orderItem.Product.Images[0].ImageUrl" alt="Product Image" class="img-thumbnail" style="max-width: 100px;" />
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

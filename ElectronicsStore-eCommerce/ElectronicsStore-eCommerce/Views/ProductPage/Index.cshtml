@@ -1,0 +1,276 @@
+﻿@model ElectronicsStore_eCommerce.ViewModels.ProductDetailsViewModel
+
+@{
+    ViewData["Title"] = "Product Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="py-5">
+    <div class="container">
+
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="alert alert-success">
+                @TempData["SuccessMessage"]
+            </div>
+        }
+
+        @if (TempData["ErrorMessage"] != null)
+        {
+            <div class="alert alert-danger">
+                @TempData["ErrorMessage"]
+            </div>
+        }
+
+        @if (TempData["ValidationErrors"] != null)
+        {
+            <div class="alert alert-danger">
+                @TempData["ValidationErrors"]
+            </div>
+        }
+
+        <div class="row gx-5">
+            <aside class="col-lg-6">
+                <div class="border rounded-4 mb-3 d-flex justify-content-center" style="height: 60vh;">
+                    <a data-fslightbox="mygalley" class="rounded-4" target="_blank" data-type="image" href="@Model.Images[0].ImageUrl">
+                        <img style="max-width: 100%; max-height: 100%;" class="rounded-4 fit" src="@Model.Images[0].ImageUrl" />
+                    </a>
+                </div>
+
+                <div class="d-flex justify-content-center mb-3">
+                    @foreach (var image in Model.Images)
+                    {
+                        <a data-fslightbox="mygalley" class="border mx-1 rounded-2" target="_blank" data-type="image" href="@image.ImageUrl" class="item-thumb">
+                            <img width="60" height="60" class="rounded-2" src="@image.ImageUrl" />
+                        </a>
+                    }
+                </div>
+                <!-- thumbs-wrap.// -->
+                <!-- gallery-wrap .end// -->
+            </aside>
+            <main class="col-lg-6">
+                <div class="ps-lg-3">
+                    <h4 class="title text-dark">
+                        @Model.Name
+                    </h4>
+                    <div class="d-flex flex-row my-3">
+                        <div class="text-warning mb-1 me-2">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                            <span class="ms-1">
+                                4.5
+                            </span>
+                        </div>
+                        <span class="text-muted"><i class="fas fa-shopping-basket fa-sm mx-1"></i>154 orders</span>
+                        <span class="text-success ms-2">In stock</span>
+                    </div>
+
+                    <div class="mb-3">
+                        <span class="h5">$@Model.Price</span>
+                        <span class="text-muted">/per piece</span>
+                    </div>
+
+                    @Html.Raw(@Model.Description)
+
+                    <hr />
+
+                    <form asp-action="AddToCart" asp-controller="ShoppingCart" method="post">
+
+                        <div class="row mb-4">
+                            <div class="col-md-4 col-6 mb-3">
+                                <input type="hidden" name="productId" value="@Model.ProductId" />
+                                <label class="mb-2 d-block">Quantity</label>
+                                <div class="input-group mb-3" style="width: 170px;">
+                                    <button class="btn btn-white border border-secondary px-3" type="button" id="button-addon1" data-mdb-ripple-color="dark">
+                                        <i class="fas fa-minus"></i>
+                                    </button>
+                                    <input type="number" id="quantity" name="quantity" class="form-control text-center border border-secondary" placeholder="1" value="1" aria-describedby="button-addon1" />
+                                    <button class="btn btn-white border border-secondary px-3" type="button" id="button-addon2" data-mdb-ripple-color="dark">
+                                        <i class="fas fa-plus"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary shadow-0"><i class="me-1 fa fa-shopping-basket"></i> Add to cart</button>
+                    </form>
+                </div>
+            </main>
+        </div>
+    </div>
+</section>
+
+<section class="bg-light border-top py-4">
+    <div class="container">
+        <div class="row gx-4">
+            <div class="col-lg-8 mb-4">
+                <div class="border rounded-2 px-3 py-2 bg-white">
+                    <!-- Pills navs -->
+                    <ul class="nav nav-pills nav-justified mb-3" id="ex1" role="tablist">
+                        <li class="nav-item d-flex" role="presentation">
+                            <a class="nav-link d-flex align-items-center justify-content-center w-100 active" id="ex1-tab-2" href="javascript:void(0);" onclick="showTab('ex1-pills-2')">Dimentions</a>
+                        </li>
+                        <li class="nav-item d-flex" role="presentation">
+                            <a class="nav-link d-flex align-items-center justify-content-center w-100" id="ex1-tab-3" href="javascript:void(0);" onclick="showTab('ex1-pills-3')">Warranty info</a>
+                        </li>
+                        <li class="nav-item d-flex" role="presentation">
+                            <a class="nav-link d-flex align-items-center justify-content-center w-100" id="ex1-tab-4" href="javascript:void(0);" onclick="showTab('ex1-pills-4')">Shipping info</a>
+                        </li>
+                    </ul>
+                    <!-- Pills navs -->
+                    <!-- Pills content -->
+                    <div class="tab-content" id="ex1-content">
+                        <div class="tab-pane fade mb-2 show active" id="ex1-pills-2" role="tabpanel" aria-labelledby="ex1-tab-2">
+                            <div class="container mt-5">
+                                <h1 class="text-center mb-4">Device Dimensions</h1>
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>Dimension</th>
+                                            <th>Value</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Width</td>
+                                            <td>76 mm</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Height</td>
+                                            <td>165.7 mm</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Depth</td>
+                                            <td>7.89 mm</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Weight</td>
+                                            <td>190 g</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                        </div>
+                        <div class="tab-pane fade mb-2" id="ex1-pills-3" role="tabpanel" aria-labelledby="ex1-tab-3">
+                            <div class="container mt-5">
+                                <h1 class="text-center mb-4">Extended Warranty Information</h1>
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>Warranty Type</th>
+                                            <th>Details</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Warranty Summary</td>
+                                            <td>1 Year Warranty on Product and 2 Years Warranty on Panel</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Covered in Warranty</td>
+                                            <td>All Manufacturing Defects</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Not Covered in Warranty</td>
+                                            <td>Warranty Does Not Cover Any External Accessories (Such as Battery, Cable, Carrying Bag), Damage Caused to the Product Due to Improper Installation by Customer, Normal Wear and Tear and Damages Caused to the Product by Accident, Lightening, Ingress of Water, Fire, Dropping or Excessive Shock, Any Damage Caused Due to Tampering of the Product by an Unauthorized Agent.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Warranty Service Type</td>
+                                            <td>Technician Visit</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                        </div>
+                        <div class="tab-pane fade mb-2" id="ex1-pills-4" role="tabpanel" aria-labelledby="ex1-tab-4">
+                            <div class="container mt-5">
+                                <h1 class="text-center mb-4">Shipping Information</h1>
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>Order Status</th>
+                                            <th>Details</th>
+                                            <th>Icon</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Order Received</td>
+                                            <td>Your order has been received and is being processed.</td>
+                                            <td><i class="fas fa-check-circle text-success"></i></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Package Dispatched</td>
+                                            <td>Your package has been dispatched and is on its way.</td>
+                                            <td><i class="fas fa-shipping-fast text-warning"></i></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Out for Delivery</td>
+                                            <td>Your package is out for delivery and will arrive soon.</td>
+                                            <td><i class="fas fa-truck text-primary"></i></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Delivered</td>
+                                            <td>Your package has been delivered successfully.</td>
+                                            <td><i class="fas fa-check-circle text-success"></i></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- Pills content -->
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="px-0 border rounded-2 shadow-0">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Similar items</h5>
+                            @foreach (var relatedProduct in Model.RelatedProducts)
+                            {
+                                <div class="d-flex mb-3">
+                                    <a href="@relatedProduct.ProductId" class="me-3">
+                                        <img src=@relatedProduct.ImageUrl style="min-width: 96px; height: 96px;" class="img-md img-thumbnail" />
+                                    </a>
+                                    <div class="info">
+                                        <a href="@relatedProduct.ProductId" class="nav-link mb-1">
+                                            @relatedProduct.Name
+                                        </a>
+                                        <strong class="text-dark"> $@relatedProduct.Price</strong>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        function showTab(tabId) {
+            // Remove 'active' class from all tabs
+            document.querySelectorAll('.nav-link').forEach(function (tab) {
+                tab.classList.remove('active');
+            });
+
+            // Add 'active' class to the clicked tab
+            document.getElementById(tabId).classList.add('active');
+
+            // Show the corresponding tab content
+            document.querySelectorAll('.tab-pane').forEach(function (tabContent) {
+                tabContent.classList.remove('show', 'active');
+            });
+
+            document.getElementById(tabId).classList.add('show', 'active');
+        }
+    </script>
+    }

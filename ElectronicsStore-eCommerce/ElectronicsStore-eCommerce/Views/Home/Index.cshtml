@@ -1,0 +1,145 @@
+﻿<!-- Views/Home/Index.cshtml -->
+@model ElectronicsStore_eCommerce.Models.ViewModel.HomePageViewModel
+
+<style>
+    .mdb-card {
+        position: relative;
+    }
+
+    .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5); /* Black background with 50% opacity */
+    }
+
+</style>
+
+<div class="carousel-inner">
+    <div class="carousel-item active">
+        <img src="~/Images//banner.jpg" class="d-block w-100" alt="Wild Landscape" />
+        <div class="mask" style="background-color: rgba(0, 0, 0, 0.4)"></div>
+        <div class="carousel-caption d-none d-sm-block mb-5">
+            <h1 class="mb-4">
+                <strong>Impala Electronics eCommerce</strong>
+            </h1>
+
+            <p>
+                <strong>Elevate Your Tech Experience with Impala Electronics – Where Innovation Meets Excellence</strong>
+            </p>
+
+            <a target="_blank" href="#" class="btn btn-outline-black btn-lg">
+                Start Shopping
+                <i class="fas fa-graduation-cap ms-2"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- Category Section -->
+<h2 class="text-center mt-5">Product Categories</h2>
+<div class="row">
+    @foreach (var category in Model.ProductCategories)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card mdb-card position-relative" style="background-image: url('@category.ImageUrl'); background-size: cover; background-repeat: no-repeat; background-position: center;">
+                <div class="overlay"></div>
+                <div class="card-body position-relative">
+                    <h5 class="card-title text-white">@category.Name</h5>
+                    <a href="@Url.Action("Index", "Product", new { categoryFilter = category.CategoryId })" class="btn btn-primary">View Products</a>
+                </div>
+            </div>
+        </div>
+
+    }
+</div>
+
+<div class="container mt-5">
+
+    <!-- Featured Products Section -->
+    <h2 class="text-center mt-5">Featured Products</h2>
+    <div class="row">
+        @foreach (var product in Model.FeaturedProducts)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card text-black">
+                    <img src=@product.Images[0].ImageUrl
+                         class="card-img-top"
+                         alt=@product.Images[0].ImageUrl
+                         style="height: 200px; object-fit: contain;padding: 10px" />
+                    <div class="card-body">
+                        <div class="text-center">
+                            <h5 class="card-title">@product.Name</h5>
+                            <p class="text-muted mb-4">@product.Category.Name</p>
+                        </div>
+                        <div class="text-center d-flex justify-content-between total font-weight-bold mt-4">
+                            <span>Total</span><span>$@product.Price</span>
+                        </div>
+                        <div class="text-center">
+                            <a href="@Url.Action("Index", "ProductPage", new { id = product.ProductId })" class="btn btn-primary btn-sm">Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <!-- Special Products Section -->
+    <h2 class="text-center mt-5">Featured Products</h2>
+    <div class="row">
+        @foreach (var product in Model.SpecialOffers)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card text-black">
+                    <img src=@product.Images[0].ImageUrl
+                         class="card-img-top"
+                         alt=@product.Images[0].ImageUrl
+                         style="height: 200px; object-fit: contain;padding: 10px" />
+                    <div class="card-body">
+                        <div class="text-center">
+                            <h5 class="card-title">@product.Name</h5>
+                            <p class="text-muted mb-4">@product.Category.Name</p>
+                        </div>
+                        <div class="text-center d-flex justify-content-between total font-weight-bold mt-4">
+                            <span>Total</span><span>$@product.Price</span>
+                        </div>
+                        <div class="text-center">
+                            <a href="@Url.Action("Index", "ProductPage", new { id = product.ProductId })" class="btn btn-primary btn-sm">Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <!-- Featured Products Section -->
+    <h2 class="text-center mt-5">New Arrival</h2>
+    <div class="row">
+        @foreach (var product in Model.NewArrivals)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card text-black">
+                    <img src=@product.Images[0].ImageUrl
+                         class="card-img-top"
+                         alt=@product.Images[0].ImageUrl
+                         style="height: 200px; object-fit: contain;padding: 10px" />
+                    <div class="card-body">
+                        <div class="text-center">
+                            <h5 class="card-title">@product.Name</h5>
+                            <p class="text-muted mb-4">@product.Category.Name</p>
+                        </div>
+                        <div class="text-center d-flex justify-content-between total font-weight-bold mt-4">
+                            <span>Total</span><span>$@product.Price</span>
+                        </div>
+                        <div class="text-center">
+                            <a href="@Url.Action("Index", "ProductPage", new { id = product.ProductId })" class="btn btn-primary btn-sm">Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+</div>

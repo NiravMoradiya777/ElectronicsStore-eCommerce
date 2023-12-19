@@ -1,0 +1,114 @@
+﻿@model ElectronicsStore_eCommerce.Models.Category
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 class="mt-4 text-center">Edit Category</h2>
+
+<div class="d-flex justify-content-center">
+    <form asp-action="Edit" asp-controller="Category" enctype="multipart/form-data" class="col-md-8">
+        <input type="hidden" asp-for="CategoryId" />
+
+        <div asp-validation-summary="ModelOnly" class="text-danger mb-4"></div>
+
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="alert alert-success">
+                @TempData["SuccessMessage"]
+            </div>
+        }
+
+        @if (TempData["ErrorMessage"] != null)
+        {
+            <div class="alert alert-danger">
+                @TempData["ErrorMessage"]
+            </div>
+        }
+
+        @if (TempData["ValidationErrors"] != null)
+        {
+            <div class="alert alert-danger">
+                @TempData["ValidationErrors"]
+            </div>
+        }
+
+        <div class="row">
+            <!-- Form section -->
+            <div class="col-md-6">
+
+                <div class="form-group mb-4">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-4">
+                    <label asp-for="Description" class="control-label"></label>
+                    <input asp-for="Description" class="form-control" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-4">
+                    <label asp-for="ParentCategoryId" class="control-label"></label>
+                    <select asp-for="ParentCategoryId" asp-items="@(new SelectList(ViewBag.ParentCategories, "CategoryId", "Name"))" class="form-control">
+                        <option value="">-- Select Parent Category --</option>
+                    </select>
+                    <span asp-validation-for="ParentCategoryId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Update" class="btn btn-primary" />
+                </div>
+            </div>
+
+            <!-- Image preview with drag and drop section -->
+            <div class="col-md-6">
+                <div class="form-group row mb-4">
+                    <label class="control-label col-md-4"></label>
+                    <div class="col-md-8">
+                        <!-- Use a dotted placeholder image -->
+                        <img id="previewImage" src="@((Model != null && !string.IsNullOrEmpty(Model.ImageUrl)) ? Model.ImageUrl : "~/Images/image-placeholder.png")" alt="Preview Image" style="max-width: 200px; max-height: 200px; border: 1px dotted #ddd; padding: 5px;" />
+                    </div>
+                </div>
+                <div class="form-group mb-4 text-center">
+                    <label asp-for="ImageUrl" class="control-label"></label>
+                    <div class="file-upload-wrapper d-flex justify-content-center">
+                        <input type="file" asp-for="ImageUrl" id="input-file-now" name="file" class="file-upload" />
+                    </div>
+                    <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+
+            // Add event listener to handle file selection and display preview
+            $('#input-file-now').on('change', function () {
+                var input = this;
+                if (input.files && input.files[0]) {
+                    var reader = new FileReader();
+
+                    reader.onload = function (e) {
+                        // Display the selected image
+                        $('#previewImage').attr('src', e.target.result).show();
+                    };
+
+                    reader.readAsDataURL(input.files[0]);
+                } else {
+                    // No image selected, display the dotted placeholder image
+                    $('#previewImage').attr('src', '~/Images/image-placeholder.png').show();
+                }
+            });
+        });
+    </script>
+
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,66 @@
+﻿@model ElectronicsStore_eCommerce.Models.ViewModel.DashboardViewModel
+
+@{
+    ViewData["Title"] = "Admin Dashboard";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2><i class="fas fa-tachometer-alt"></i> Admin Dashboard</h2>
+
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <i class="fas fa-chart-line"></i> Revenue
+                </div>
+                <div class="card-body">
+                    <p>Total Revenue: $@Model.TotalRevenue</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header bg-success text-white">
+                    <i class="fas fa-shopping-cart"></i> Orders
+                </div>
+                <div class="card-body">
+                    <p>Total Orders: @Model.TotalOrders</p>
+                    <p>Top Selling Product: @Model.TopSellingProduct</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header bg-warning text-white">
+                    <i class="fas fa-list"></i> Categories
+                </div>
+                <div class="card-body">
+                    <p>Total Categories: @Model.TotalCategories</p>
+                    <p>Most Popular Category: @Model.MostPopularCategory</p>
+                    <p>New Categories Added: @Model.NewCategoriesAdded</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header bg-info text-white">
+                    <i class="fas fa-box"></i> Products
+                </div>
+                <div class="card-body">
+                    <p>Total Products: @Model.TotalProducts</p>
+                    <p>New Products Added: @Model.NewProductsAdded</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <!-- Add any necessary scripts here -->
+}

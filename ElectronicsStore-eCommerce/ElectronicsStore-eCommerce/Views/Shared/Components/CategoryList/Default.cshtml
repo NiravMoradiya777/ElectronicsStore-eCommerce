@@ -1,0 +1,10 @@
+﻿@model List<Category>
+
+<ul class="navbar-nav">
+    @foreach (var category in Model)
+    {
+        <li class="nav-item">
+            <a class="nav-link text-dark" href="/">@category.Name</a>
+        </li>
+    }
+</ul>

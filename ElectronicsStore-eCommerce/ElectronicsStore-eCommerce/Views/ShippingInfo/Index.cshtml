@@ -1,0 +1,63 @@
+﻿@model List<ShippingInfo>
+
+<div class="container mt-5">
+    <h2>Shipping Information</h2>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    @if (TempData["ValidationErrors"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ValidationErrors"]
+        </div>
+    }
+
+    <div class="row mb-3">
+        <div class="col-md-12">
+            <a asp-action="Create" class="btn btn-primary">Add Shipping Information</a>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Shipping Address</th>
+                        <th>City</th>
+                        <th>Zip Code</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var shippingInfo in Model)
+                    {
+                        <tr>
+                            <td>@shippingInfo.ShippingAddress</td>
+                            <td>@shippingInfo.City</td>
+                            <td>@shippingInfo.ZipCode</td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@shippingInfo.ShippingInfoId">Edit</a> |
+                                <form asp-action="Delete" asp-route-id="@shippingInfo.ShippingInfoId" method="post" class="d-inline">
+                                    <button type="submit" class="btn-link">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

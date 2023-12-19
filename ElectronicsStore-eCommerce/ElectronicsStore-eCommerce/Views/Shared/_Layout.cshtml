@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Impala-eCommerce</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <!-- Google Fonts Roboto -->
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <!-- MDB -->
+    <link rel="stylesheet" href="~/lib/MDB/css/mdb.min.css" />
+</head>
+<body class="d-flex flex-column min-vh-100">
+    <header>
+        <nav class="navbar navbar-expand-md navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/Images/Logo.png" alt="Icon" width="50" height="40" class="d-inline-block align-top mr-2"> Impala
+                </a>
+
+                <!-- Mobile Menu Toggle Button -->
+                <button class="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="#navbarNav"
+                        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Index">Products</a>
+                        </li>
+                        @if (User.Identity.Name == "Admin@gmail.com")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">Admin Panel</a>
+                            </li>
+                        }
+                    </ul>
+
+                    <!-- Search Bar -->
+                    <form method="get" asp-controller="Product" class="d-flex">
+                        <input class="form-control me-2" name="nameFilter" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-success" type="submit">Search</button>
+                    </form>
+
+                    <!-- User Actions -->
+                    <ul class="navbar-nav">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <div class="btn-group shadow-none">
+                                <button type="button"
+                                        class="btn btn-primary-outline dropdown-toggle dropdown-toggle-split"
+                                        data-mdb-dropdown-init
+                                        data-mdb-ripple-init
+                                        aria-expanded="false">
+                                    @User.Identity.Name
+                                    <span class="visually-hidden">Toggle Dropdown</span>
+                                </button>
+                                <ul class="dropdown-menu">
+                                    <a class="dropdown-item" asp-area="" asp-controller="ShippingInfo" asp-action="Index">
+                                        <i class="fas fa-user"></i> Manage Profile
+                                    </a>
+                                    <a class="dropdown-item" asp-area="" asp-controller="Order" asp-action="Index">
+                                        <i class="fas fa-shopping-bag"></i> Order History
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" asp-area="" asp-controller="User" asp-action="Logout">
+                                        <i class="fas fa-sign-out-alt"></i> Logout
+                                    </a>
+                                </ul>
+                            </div>
+                        }
+                        else
+                        {
+                            <!-- Display login button when the user is not authenticated -->
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="" asp-controller="User" asp-action="Login">
+                                    <i class="fas fa-sign-in-alt"></i> Login
+                                </a>
+                            </li>
+                        }
+
+                        <!-- Cart Option -->
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="ShoppingCart" asp-action="Index">
+                                <i class="fas fa-shopping-cart"></i> Cart
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+
+    <div class="container flex-grow-1">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    &copy; 2023 - ElectronicsStore_eCommerce -
+                    <a asp-area="" asp-controller="Home" asp-action="Privacy" class="text-decoration-none">Privacy</a>
+                </div>
+                <div class="col-12 mt-2">
+                    <small class="text-muted">
+                        <ul class="list-unstyled">
+                            <li>Nirav Bharatbhai Moradiya</li>
+                        </ul>
+                    </small>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- MDB -->
+    <script type="text/javascript" src="~/lib/MDB/js/mdb.umd.min.js"></script>
+    <!-- Custom scripts -->
+    <script type="text/javascript"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

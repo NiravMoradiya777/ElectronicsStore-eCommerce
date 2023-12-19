@@ -1,0 +1,99 @@
+﻿@model List<ElectronicsStore_eCommerce.Models.Order>
+
+@{
+    ViewData["Title"] = "Order Management";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Order Management</h2>
+
+    @if (!string.IsNullOrEmpty(TempData["SuccessMessage"]?.ToString()))
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    @if (!string.IsNullOrEmpty(TempData["ErrorMessage"]?.ToString()))
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    <form method="get" asp-controller="OrderManagement" asp-action="Index">
+        <div class="row">
+            <div class="col-md-3 mb-2">
+                <label for="statusFilter">Filter by Status:</label>
+                <select class="form-control" id="statusFilter" name="statusFilter">
+                    <option value="">All</option>
+                    <option value="Pending">Pending</option>
+                    <option value="Shipped">Shipped</option>
+                    <option value="Delivered">Delivered</option>
+                    <!-- Add other status options as needed -->
+                </select>
+            </div>
+            <div class="col-md-2 mb-2">
+                <label for="sortField">Sort by:</label>
+                <select class="form-control" id="sortField" name="sortField">
+                    <option value="OrderDate">Order Date</option>
+                    <option value="TotalAmount">Total Amount</option>
+                    <!-- Add other sorting options as needed -->
+                </select>
+            </div>
+            <div class="col-md-2 mb-2">
+                <label for="sortOrder">Sort order:</label>
+                <select class="form-control" id="sortOrder" name="sortOrder">
+                    <option value="Asc">Ascending</option>
+                    <option value="Desc">Descending</option>
+                </select>
+            </div>
+            <div class="col-md-2 mb-2">
+                <label>&nbsp;</label>
+                <button type="submit" class="btn btn-primary btn-block">Apply Filter</button>
+            </div>
+        </div>
+    </form>
+
+    <table class="table table-hover mt-4">
+        <thead class="thead-dark">
+            <tr>
+                <th>Order ID</th>
+                <th>Order Date</th>
+                <th>User ID</th>
+                <th>Status</th>
+                <th>Total Amount</th>
+                <th>Total Items</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model)
+            {
+                <tr>
+                    <td>@order.OrderId</td>
+                    <td>@order.OrderDate</td>
+                    <td>@order.UserId</td>
+                    <td>@order.Status</td>
+                    <td>@order.TotalAmount</td>
+                    <td>@order.OrderItems.Sum(oi => oi.Quantity)</td>
+                    <td>
+                        <form asp-controller="OrderManagement" asp-action="UpdateOrderStatus" method="post" class="d-inline">
+                            <input type="hidden" name="orderId" value="@order.OrderId" />
+                            <div class="form-group d-inline">
+                                <select class="form-control" name="newStatus">
+                                    <option value="Pending" selected="@(order.Status == "Pending")">Pending</option>
+                                    <option value="Shipped" selected="@(order.Status == "Shipped")">Shipped</option>
+                                    <option value="Delivered" selected="@(order.Status == "Delivered")">Delivered</option>
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-sm">Update Status</button>
+                        </form>
+                        <a class="btn btn-info btn-sm ml-2" asp-controller="OrderManagement" asp-action="Details" asp-route-id="@order.OrderId">Details</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

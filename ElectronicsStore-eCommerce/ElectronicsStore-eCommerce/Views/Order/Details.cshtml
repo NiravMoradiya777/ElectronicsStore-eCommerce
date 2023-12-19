@@ -1,0 +1,72 @@
+﻿@model Order
+
+@{
+    decimal totalAmount = 0; 
+}
+
+<div class="container mt-5">
+    <h2>Order Details</h2>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    @if (TempData["ValidationErrors"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ValidationErrors"]
+        </div>
+    }
+
+    <div class="row">
+        <div class="col-md-12">
+            <dl class="row">
+                <dt class="col-sm-2">Order ID</dt>
+                <dd class="col-sm-10">@Model.OrderId</dd>
+
+                <dt class="col-sm-2">Order Date</dt>
+                <dd class="col-sm-10">@Model.OrderDate.ToString("MM/dd/yyyy hh:mm tt")</dd>
+
+                <dt class="col-sm-2">Status</dt>
+                <dd class="col-sm-10">@Model.Status</dd>
+            </dl>
+
+            <h4>Order Items</h4>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Product</th>
+                        <th>Quantity</th>
+                        <th>Subtotal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.OrderItems)
+                    {
+                        totalAmount += item.Subtotal;
+                        <tr>
+                            <td>@item.Product.Name</td>
+                            <td>@item.Quantity</td>
+                            <td>@item.Subtotal.ToString("C")</td>
+                        </tr>
+                    }
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>@totalAmount.ToString("C")</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
