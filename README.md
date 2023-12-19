@@ -5,6 +5,7 @@ Welcome to the Electronics Store e-Commerce project! This ASP.NET Core applicati
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Video](#video)
 - [Features](#features)
   - [Customer Panel](#customer-panel)
   - [Admin Panel](#admin-panel)
@@ -16,6 +17,10 @@ Welcome to the Electronics Store e-Commerce project! This ASP.NET Core applicati
 ## Introduction
 
 This project is an ASP.NET Core application designed to serve as an electronics store e-commerce platform. It includes features such as user registration, product browsing, shopping cart management, order placement, and separate panels for administrators and customers.
+
+## video
+[![eCommerce Store Demo](	https://i.ytimg.com/vi/1P--kkhuGn4/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLBGWHW98xu1w9NyUNQZSJcRAyYutQ)](https://www.youtube.com/watch?v=1P--kkhuGn4)
+
 
 ## Features
 
